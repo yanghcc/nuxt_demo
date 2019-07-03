@@ -5,6 +5,7 @@
       <h1 class="title">
         nuxt_demo
       </h1>
+      <nuxt-link to="/about" v-text="'about'" />
       <h2 class="subtitle">
         My solid Nuxt.js project
       </h2>
